@@ -1,0 +1,6 @@
+[package]
+name = "simple_db"
+version = "0.0.0"
+
+[dependencies]
+AptosFramework = { local = "/opt/core/aptos-core/aptos-move/framework/aptos-framework" }
